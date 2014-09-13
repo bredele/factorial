@@ -1,0 +1,29 @@
+{
+  "name": "factorial",
+  "version": "0.0.0",
+  "description": "math factorial",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bredele/factorial.git"
+  },
+  "keywords": [
+    "math",
+    "factorial"
+  ],
+  "author": "Olivier Wietrich <olivier.wietrich@gmail.com> (http://github.com/bredele)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/factorial/issues"
+  },
+  "homepage": "https://github.com/bredele/factorial",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
