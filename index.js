@@ -18,6 +18,6 @@ module.exports = function(nb) {
 		result = result * nb;
 	}
 	return result || 1;
-}
+};
 
 
